@@ -1,0 +1,42 @@
+D:\Ycheba\Semestr5\PnaYAVY\lab_1\lab_1\obj\Debug\lab_1.csprojResolveAssemblyReference.cache
+D:\Ycheba\Semestr5\PnaYAVY\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\Ycheba\Semestr5\PnaYAVY\lab_1\lab_1\bin\Debug\lab_1.exe.config
+D:\Ycheba\Semestr5\PnaYAVY\lab_1\lab_1\bin\Debug\lab_1.exe
+D:\Ycheba\Semestr5\PnaYAVY\lab_1\lab_1\bin\Debug\lab_1.pdb
+D:\Ycheba\Semestr5\PnaYAVY\lab_1\lab_1\obj\Debug\lab_1.exe
+D:\Ycheba\Semestr5\PnaYAVY\lab_1\lab_1\obj\Debug\lab_1.pdb
+D:\Ycheba\Semestr5\PnaYAVY\lab_1 — копия\lab_1\bin\Debug\lab_1.exe.config
+D:\Ycheba\Semestr5\PnaYAVY\lab_1 — копия\lab_1\bin\Debug\lab_1.exe
+D:\Ycheba\Semestr5\PnaYAVY\lab_1 — копия\lab_1\bin\Debug\lab_1.pdb
+D:\Ycheba\Semestr5\PnaYAVY\lab_1 — копия\lab_1\obj\Debug\lab_1.csprojResolveAssemblyReference.cache
+D:\Ycheba\Semestr5\PnaYAVY\lab_1 — копия\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\Ycheba\Semestr5\PnaYAVY\lab_1 — копия\lab_1\obj\Debug\lab_1.exe
+D:\Ycheba\Semestr5\PnaYAVY\lab_1 — копия\lab_1\obj\Debug\lab_1.pdb
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия\lab_1\obj\Debug\lab_1.csprojResolveAssemblyReference.cache
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия\lab_1\obj\Debug\lab_1.exe
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия\lab_1\obj\Debug\lab_1.pdb
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия\lab_1\bin\Debug\lab_1.exe.config
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия\lab_1\bin\Debug\lab_1.exe
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия\lab_1\bin\Debug\lab_1.pdb
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия(кроме add и remove)\lab_1\bin\Debug\lab_1.exe.config
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия(кроме add и remove)\lab_1\bin\Debug\lab_1.exe
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия(кроме add и remove)\lab_1\bin\Debug\lab_1.pdb
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия(кроме add и remove)\lab_1\obj\Debug\lab_1.csprojResolveAssemblyReference.cache
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия(кроме add и remove)\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия(кроме add и remove)\lab_1\obj\Debug\lab_1.exe
+D:\Ycheba\Semestr5\PnaYAVY\РабочаяВерсия(кроме add и remove)\lab_1\obj\Debug\lab_1.pdb
+D:\Ycheba\Semestr5\PnaYAVY\Лаба_1НеТрогатьГотовая\lab_1\bin\Debug\lab_1.exe.config
+D:\Ycheba\Semestr5\PnaYAVY\Лаба_1НеТрогатьГотовая\lab_1\bin\Debug\lab_1.exe
+D:\Ycheba\Semestr5\PnaYAVY\Лаба_1НеТрогатьГотовая\lab_1\bin\Debug\lab_1.pdb
+D:\Ycheba\Semestr5\PnaYAVY\Лаба_1НеТрогатьГотовая\lab_1\obj\Debug\lab_1.csprojResolveAssemblyReference.cache
+D:\Ycheba\Semestr5\PnaYAVY\Лаба_1НеТрогатьГотовая\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\Ycheba\Semestr5\PnaYAVY\Лаба_1НеТрогатьГотовая\lab_1\obj\Debug\lab_1.exe
+D:\Ycheba\Semestr5\PnaYAVY\Лаба_1НеТрогатьГотовая\lab_1\obj\Debug\lab_1.pdb
+C:\Users\nikit\Desktop\пнаяву\Лаба_1НеТрогатьГотовая\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\nikit\Desktop\пнаяву\Лаба_1НеТрогатьГотовая\lab_1\bin\Debug\lab_1.exe
+C:\Users\nikit\Desktop\пнаяву\Лаба_1НеТрогатьГотовая\lab_1\bin\Debug\lab_1.pdb
+C:\Users\nikit\Desktop\пнаяву\Лаба_1НеТрогатьГотовая\lab_1\obj\Debug\lab_1.csprojResolveAssemblyReference.cache
+C:\Users\nikit\Desktop\пнаяву\Лаба_1НеТрогатьГотовая\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\пнаяву\Лаба_1НеТрогатьГотовая\lab_1\obj\Debug\lab_1.exe
+C:\Users\nikit\Desktop\пнаяву\Лаба_1НеТрогатьГотовая\lab_1\obj\Debug\lab_1.pdb
